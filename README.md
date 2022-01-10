@@ -1,2 +1,2 @@
-# Resume
-My Online Resume
+# My Website
+My Website
